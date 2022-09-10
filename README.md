@@ -1,1 +1,3 @@
-# anguler-tutorial
+# angular-tutorial
+
+- https://angular.jp/docs
